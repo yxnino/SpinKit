@@ -14,7 +14,7 @@
     "prepublish": "echo \"prepublish\"",
     "publish": "echo \"publish\"",
     "preinstall": "echo \"preinstall\"",
-    "install": "echo \"prepublish\"",
+    "install": "echo \"install\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
