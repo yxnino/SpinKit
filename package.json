@@ -12,6 +12,9 @@
   "main": "gulpfile.js",
   "scripts": {
     "prepublish": "echo \"prepublish\"",
+    "publish": "echo \"publish\"",
+    "preinstall": "echo \"preinstall\"",
+    "install": "echo \"prepublish\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
